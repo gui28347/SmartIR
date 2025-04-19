@@ -6,7 +6,7 @@
 [![Code style](https://img.shields.io/badge/code%20style-black-000000.svg?style=for-the-badge)](https://github.com/psf/black)
 
 ## Overview
-
+ 
 SmartIR is a custom integration for controlling **climate**, **media player**, **fan** and **light** devices via infrared controllers.
 
 SmartIR currently supports the following controllers:
